@@ -28,6 +28,8 @@
 
 **git log** Información de la línea del tiempo.
 
+**git log file.txt** Información de la línea del tiempo de un archivo en particular.
+
 **git reset archivo** Remover archivo del stage.
 
 **git add "*.txt"** Agrega al stage todos los txt encontrados en TODO el repositorio.
