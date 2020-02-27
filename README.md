@@ -24,7 +24,7 @@
 
 **git commit -m "message"** Crear snapshot del stage.
 
-**git checkout -- .** Reconstruye el repositorio a como se encontraba en el úlmtimo commit.
+**git checkout -- .** Reconstruye el repositorio a como se encontraba en el último commit.
 
 **git log** Información de la línea del tiempo.
 
