@@ -59,3 +59,17 @@
 **git reset --hard *hash***
 
 **git reflog**: Historial completo del repositorio.
+
+**git branch**: Muestra las ramas y señala en la que estamos ubicados.
+
+**git branch branch-name**: Crea una nueva rama.
+
+**git checkout branch-name**: Nos cambia a la rama indicada.
+
+**git diff branch1 branch2**: Diferencias entre branch1 y branch2.
+
+**git merge branch1**: Une branch1 a la rama en la que nos encontramos actualmente.
+
+**git branch -d branch1**: Borra la branch1.
+
+**git checkout -b branch1**: Crea una nueva rama y nos cambia a ella.
