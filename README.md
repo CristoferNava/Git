@@ -24,6 +24,10 @@
 
 **git commit -m "message"** Crear snapshot del stage.
 
+**git remote add origin url** Acceso remoto al repositorio.
+
+**git push -u origin master** Push al repo privado.
+
 **git checkout -- .** Reconstruye el repositorio a como se encontraba en el último commit.
 
 **git log** Información de la línea del tiempo.
