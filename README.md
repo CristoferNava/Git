@@ -30,6 +30,8 @@ vinculada con la url indicada.
 **git pull upstream master**: Traemos todos los cambios de la rama upstream (fuente) a la
 master.
 
+**git fetch**: Trae los cambios del repositorio remoto, por ejemplo las ramas que alguien más creó.
+
 **git push origin master**: Subimos los cambios de master al repositorio remoto origin.
 
 **git checkout -- .** Reconstruye el repositorio a como se encontraba en el último commit.
